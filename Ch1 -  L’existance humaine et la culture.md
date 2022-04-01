@@ -20,9 +20,13 @@ Critique : Théorie évolutionniste → le hasard suffit à l’emergence d’un
 La vulnérabilité est une sensibilité à l’environnement, malgré la faiblesse et la fragilité plus importante, elle 
 nous permet d’obtenir plus d’informations, nous permetant ainsi de nous adapter.
 
-<ins>6 – Présenter la **hierarchie entre nature et culture** propre à la modernité et la critique de **Diogène**</ins>   
-Divin : éternel
-Nature : mortalité
+<ins>6 – Présenter la **hierarchie entre nature et culture** propre à la modernité et la critique de **Diogène**</ins> 
+|Hierarchie nature & culture|
+|---------------|
+|Divin : éternel|
+|![Hierarchie nature culture](https://user-images.githubusercontent.com/36168910/161285853-87bd6f83-1597-4dfb-94a6-b8ba5d5669e0.png)|
+|Nature : mortalité|
+
 Diogène le Cynique “Ensauvager la vie” : Renverser l’idée de cette hierarchie
 
 <ins>7 – Donner et expliquer rapidement les **4 éléments** qui composent l’introduction d’une **explication de texte**</ins>   
