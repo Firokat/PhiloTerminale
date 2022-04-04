@@ -70,3 +70,33 @@
 	
 	Un idéal réformiste veut améliorer les conditions de vie de prison alors qu'un idéal révolutionnaire veut complètement abolir le système carcéral
 
+# Chapitre III : le Travail
+
+1.  <ins>Proposer une définition très générale du travail puis une définition plus proche de notre réalité</ins>
+
+    Le travail est une activité où l'homme fournit un effort afin de satisfaire un besoin
+    
+2.  <ins> Porter un jugement de valeur sur le travail en vous appuyant sur l'étymologie et la Bible</ins>
+
+3.  <ins>Montrer l'ambivalence de la technique par rapport aux souffrances du travail</ins>
+
+4.  <ins>Énoncer et illustrer les propriétés d'un travail humain (non aliéné) d'après Marx</ins>
+	1.  la production et Kim individualité du producteur
+	2.  la production d'un objet utile / activité utile
+	3.  le travail permet d'éprouver un sentiment de solidarité contre la solitude
+	4.  la sociabilité est l'essence de la nature humaine
+
+5.  <ins>Énoncer et illustrer la fin du système capitaliste d'après Marx</ins>
+	1.  la production de richesse pour la production de richesse
+	2.  la mise en concurrence de la satisfaction humaine contre l'augmentation du profit
+	3.   l'accumulation de richesses
+
+	le système capitaliste serait donc inhumain, tourné vers une accumulation aveugle de richesses
+	
+6.  <ins> Dire ce qui fait la valeur des choses exprimé par le prix naturel d'après les économistes classiques</ins>
+
+	la valeur des choses est définie par la quantité de travail / souffrance nécessaire à sa production
+	
+7.  <ins> Expliquer l'origine du profit et le conflit qui en résulte d'après Marx</ins>
+
+	le profit serait un jeu sur les prix dont le but est de vendre plus cher
