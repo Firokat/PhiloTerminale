@@ -51,6 +51,7 @@
 3. <ins>Formuler la réponse **démocratique** à la question de la souveraineté en présentant ses avantages et inconvénients</ins>
 	
 	Les décisions qui affectent tout le monde doit être prise par tout le monde
+	
 	**Avantage**: Permet de vivre les règles comme des obligations plutôt que des contraintes
 	
 	**Incovénients**:
@@ -59,7 +60,9 @@
 4. <ins>Formuler la réponse **technocratique** à la question de la souveraineté en présentant ses avantages et inconvénients</ins>
 	
 	La plupart des gens ne font pas compétent pour régler les problèmes trop complexe de nos société. Il faut donc laisser des spécialistes décider des lois.
+	
 	**Avantage**: Permet la mise en place de lois optimales / impartiales
+	
 	**Incovénient**: pour faire accepter les lois par la population la pédagogie / force nécessaires
 	
 5. <ins>Identifier les différences et le point commun entre la **vengeance** et la **justice d'état**</ins>
