@@ -3,7 +3,7 @@
 1.  <ins>Expliquer la différence entre **règles naturelles** et **règles conventionnelles** à l’aide d’exemples et insister sur la **diversité des règles culturelles**</ins>
     
     - Règles naturelles : Règles auxquelles nous obéissons instinctivement `cligner des yeux`
-    - Règles culturelles : Règles crées par des groupes humains que nous devons apprendre. Elles dépendent des cultures, il y a donc une diversité de ces règles. `le nom des choses`
+    - Règles culturelles : Règles créées par des groupes humains que nous devons apprendre. Elles dépendent des cultures, il y a donc une diversité de ces règles. `le nom des choses`
 2.  <ins>Expliquer quel but Zeus donne l’**art politique** aux humains dans le **mythe de Prométhée**</ins>
     
     Pour survivre face aux animaux, les hommes ont besoin de coopérer, c'est pour cela que Zeus leur donne l'art politique
@@ -12,17 +12,17 @@
     
     1.  La manière de l'Homme de vivre ensemble pour survivre le distingue des autres êtres vivants
     2.  Le langage nous permet d'être politique, plus développé que celui des animaux, permettant de décrire des notions complexes. `douleur/agréable` `inutile/utile` `injuste/juste`
-    3.  Les animaux sont seulement capables de parler de ce qui est, alors que l'Homme peut se mettre d'accord sur ce qui peut être. Etre un animal politique, c'est pouvoir discuter et décider en commun des règles qui vont organiser la vie commune.
+    3.  Les animaux sont seulement capables de parler de ce qui est, alors que l'Homme peut se mettre d'accord sur ce qui peut être. Être un animal politique, c'est pouvoir discuter et décider en commun des règles qui vont organiser la vie commune.
 4.  <ins>Présenter les **deux sens principaux** que peut prendre le terme de **justice** et expliquer la distinction entre **légal** et **légitime** à l’aide d’exemples</ins>
     
     - La justice comme institution réelle
     - La justice comme idéal, valeur, sentiment, autorité supérieure...
-    - Légal : ce qui est juste selon la loi de tel pays à tetl moment
+    - Légal : ce qui est juste selon la loi de tel pays à tel moment
     - Légitime : ce qui est juste dans l'absolu
 	
 5.  <ins>Formuler et défendre de façon complète un **idéal de justice égalitaire**</ins>
     
-    Selon cet idéal de justice, dans la société parfaite, tout le monde serait heureux. La justice s'organiserait autour de règles qui organisent la coopération. L'injustice se logeant dans les situations inégalitaire, l'idéal de justice serait l'égalité. Une société idéalement juste ce serait une société dans tous les membres connaîtraient une quantité égale de plaisir de souffrance grâce à une distribution équitable des tâches et richesse et de l'attention
+    Selon cet idéal de justice, dans la société parfaite, tout le monde serait heureux. La justice s'organise autour de règles qui organisent la coopération. L'injustice se logeant dans les situations inégalitaires, l'idéal de justice serait l'égalité. Une société idéalement juste ce serait une société dans tous les membres connaîtraient une quantité égale de plaisir de souffrance grâce à une distribution équitable des tâches et richesse et de l'attention
 6.  <ins>Montrer les **ambiguïtés** de l’**article 1 de la Déclaration des droits de l’homme et du citoyen**
     de 1789 relativement à l’idéal d’égalité</ins>
 	- Egalité en droit pas en fait
@@ -47,23 +47,23 @@
 	- Naturalisation de l'idéal politique
 2. <ins>Dire si les lois sont le résultat d'une **alliance des plus faibles** au sein de la société en vous appuyant sur l'extrait de la **Loi des Douze Tables**</ins>
 	
-	Oui, la loi des 12 tables confirme cette hypothèse. En effet elles ont été écrites par les plébéiens pour défendre leurs intêrets face aux patriciens.
+	Oui, la loi des 12 tables confirme cette hypothèse. En effet, elles ont été écrites par les plébéiens pour défendre leurs intérêts face aux patriciens.
 3. <ins>Formuler la réponse **démocratique** à la question de la souveraineté en présentant ses avantages et inconvénients</ins>
 	
 	Les décisions qui affectent tout le monde doit être prise par tout le monde
 	
 	**Avantage**: Permet de vivre les règles comme des obligations plutôt que des contraintes
 	
-	**Incovénients**:
+	**Inconvénients**:
 	- Chronophage et impossible à mettre en place dans de grandes sociétés
 	- Compromis souvent nécessaires pour réaliser cet idéal
 4. <ins>Formuler la réponse **technocratique** à la question de la souveraineté en présentant ses avantages et inconvénients</ins>
 	
-	La plupart des gens ne font pas compétent pour régler les problèmes trop complexe de nos société. Il faut donc laisser des spécialistes décider des lois.
+	La plupart des gens ne sont pas compétents pour régler les problèmes trop complexes de notre société. Il faut donc laisser des spécialistes décider des lois.
 	
 	**Avantage**: Permet la mise en place de lois optimales / impartiales
 	
-	**Incovénient**: pour faire accepter les lois par la population la pédagogie / force nécessaires
+	**Inconvénient**: pour faire accepter les lois par la population la pédagogie / force nécessaires
 	
 5. <ins>Identifier les différences et le point commun entre la **vengeance** et la **justice d'état**</ins>
 
@@ -79,7 +79,7 @@
 
     Le travail est une activité où l'homme fournit un effort afin de satisfaire un besoin
     
-2.  <ins> Porter un jugement de valeur sur le travail en vous appuyant sur l'étymologie et la Bible</ins>
+2.  <ins> Porter un jugement de valeur sur le travail en vous appuyant sur l'étymologie et la Bible</ins>
 
 3.  <ins>Montrer l'ambivalence de la technique par rapport aux souffrances du travail</ins>
 
@@ -96,10 +96,12 @@
 
 	le système capitaliste serait donc inhumain, tourné vers une accumulation aveugle de richesses
 	
-6.  <ins> Dire ce qui fait la valeur des choses exprimé par le prix naturel d'après les économistes classiques</ins>
+6.  <ins> Dire ce qui fait la valeur des choses exprimé par le prix naturel d'après les économistes classiques</ins>
 
 	la valeur des choses est définie par la quantité de travail / souffrance nécessaire à sa production
 	
-7.  <ins> Expliquer l'origine du profit et le conflit qui en résulte d'après Marx</ins>
+7.  <ins> Expliquer l'origine du profit et le conflit qui en résulte d'après Marx</ins>
 
 	le profit serait un jeu sur les prix dont le but est de vendre plus cher
+
+
