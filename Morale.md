@@ -30,7 +30,7 @@
 		Le remède serait donc la vérité qui amène à se connaître soi-même et à s'interroger sur la bonne voie
 9.  <ins>Refaire le raisonnement sceptique de Socrate face à la mort</ins>
 
-    Il n'y a pas de raison de craindre la peur film savons pas ce que c'est.
+    Il n'y a pas de raison de craindre la mort car nous ne savons pas ce que c'est.
 10. <ins>Défendre une interprétation du dernier discours de Socrate au sujet de la mort</ins>
 
 	Ce dernier discours pour être une idée consolatrice pour se libérer du poids de la peine de mort. Il entre tout de même en contradiction avec lui-même.
